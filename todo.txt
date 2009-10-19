@@ -1,0 +1,11 @@
+Features
+* element can be defined
+* element creates an instance method
+* "helper" class methods
+* can have additional instance methods
+* pages can be included in other pages
+
+Change for Watir
+* create match operator for watir
+
+how do we separate navigation from input/validation?
